@@ -1,8 +1,11 @@
 # e_commerce_app
 
 Proje adı: e_commerce_app
+
 Kısa açıklama: Ürünlerin listesi, detaylı gösterimi, sepete eklenmesi ve sepet ekranlarını içeren e ticaret uygulamasıdır.
+
 Kullanılan Flutter sürümü: Android 16.0 ("Baklava")
+
 Çalıştırma adımları: 
 1.Bu projeyi bilgisayarınıza klonlayın:
 git clone https://github.com/yelizakalin/e-commerce-app-
