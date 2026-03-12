@@ -1,7 +1,31 @@
 # e_commerce_app
 
-A new Flutter project.
-Flutter 16 baklava sürümü
+Proje adı: e_commerce_app
+Kısa açıklama: Ürünlerin listesi, detaylı gösterimi, sepete eklenmesi ve sepet ekranlarını içeren e ticaret uygulamasıdır.
+Kullanılan Flutter sürümü: Android 16.0 ("Baklava")
+Çalıştırma adımları: 
+1.Bu projeyi bilgisayarınıza klonlayın:
+git clone https://github.com/yelizakalin/e-commerce-app-
+
+2.Proje klasörüne girin:
+cd e-commerce-app-
+
+3.Gerekli Flutter paketlerini yükleyin:
+flutter pub get
+
+4.Bir Android emülatör başlatın veya USB ile Android cihazınızı bilgisayara bağlayın.
+
+5.Uygulamayı çalıştırın:
+flutter run
+
+Notlar
+Proje Flutter ile geliştirilmiştir.
+
+Flutter SDK’nın bilgisayarda kurulu olması gerekmektedir.
+
+Emülatör çalışmıyorsa uygulama fiziksel Android cihaz üzerinden test edilmiştir.
+
+
 
 ## Getting Started
 
